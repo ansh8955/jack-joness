@@ -600,20 +600,20 @@ body {
 
 #side-menu{
   width: 20vw;
-   position: relative;
+   position: r
    top:200px;
 }
 
 /* footer.................................... */
 
-/* .footer {
+.footer {
   display: flex;
   justify-content: space-around;
   background-color: #002855;
   margin-top: 10%;
   height: 50vh;
   align-items: center;
-} */
+}
 
 .socials {
   display: flex;
@@ -986,6 +986,7 @@ flex-direction: row;
   .fa-brands{
       color:#ffffff;
       }
+
       /* css for underline effect */
 
 .hover-underline-animation {
@@ -1012,61 +1013,3 @@ flex-direction: row;
   transform-origin: bottom left;
 }
 /* css for underline effect */
-
-
-/*footer*/
-.footer{
-  background-color: rgb(0,40,85);
-  width: 100%;
-  height: auto;
- 
-}
-.footer hr{
-
-  margin-top: 1rem;
-}
-
-.heading-footer {
-margin-left: 1rem;
-}
-
-.heading-footer h2{
-  font-size: 16px;
-  color: white;
-  padding-left: 1rem;
-  margin-top: 5rem;
-  padding:1rem;
-  
-}
-
-.footer .list{
-  margin-top: 0.8rem;
-  height: auto;
-  width: 100%;
-  background-color:rgb(0,40,85);
-  display: flex;
-
-}
-
-.footer .list .social-icon-bar{
-  width: 20%;
-  margin-left: 3rem;
-  margin-bottom: 2rem;
-  margin-top: 5rem;
-  background-color:rgb(0,40,85);
-  padding: 0.5rem;
-  height: 8rem;
-  
-display: flex;
-flex-direction: row;
-}
-.footer .list .social-icon-bar div{
-  width: 5%;
-  height: auto;
-  margin: 1rem;
-}
-.footer .list .social-icon-bar div p{
-  line-height: 40px;
-  color: #fff;
-  margin:0 4rem;
-}
