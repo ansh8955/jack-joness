@@ -346,7 +346,7 @@ body {
   font-size: 26px;
   font-weight: 500;
   display: block;
-  color: #002855;
+  color:rgb(0,40,85);
   margin: 10px 7vh;
 }
 
@@ -439,8 +439,10 @@ li {
 }
 
 .section5 h1{
-  margin-left: 80px;
-  color: red;
+  margin-left: 100px;
+  margin-bottom: 20px;
+  color:rgb(0,40,85);
+
 }
 
 .section5, .section1, .section2, .section3, .section4:hover{
