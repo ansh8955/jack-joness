@@ -13,6 +13,7 @@
     width: 100%;
     height: 100%;
     overflow-x: hidden;
+    scroll-behavior: smooth;
   }
   
   .header {
@@ -526,7 +527,7 @@
 
 #side-menu{
     width: 20vw;
-     position: relative;
+     position: r
      top:200px;
 }
 
@@ -841,4 +842,3 @@ flex-direction: row;
  }
 
 }
-

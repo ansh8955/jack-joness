@@ -16,22 +16,22 @@ body {
   font-weight: bold;
 }
 
-/* .header {
+.header {
   position: sticky;
   top: 0;
   background: white;
   z-index: 2;
-} */
+}
 
-/* .header .top-discount-tag a {
+.header .top-discount-tag a {
   text-decoration: none;
   color: #fff;
   font-size: 13px;
   font-weight: 400;
   padding: 8px 0px;
   text-align: center;
-} */
-/* .header .top-discount-tag {
+}
+.header .top-discount-tag {
   display: flex;
   position: relative;
   align-items: center;
@@ -40,8 +40,8 @@ body {
   text-align: center;
   justify-content: center;
   gap: 2px;
-} */
-/* .header .jack-jones-img {
+}
+.header .jack-jones-img {
   display: flex;
   padding-top: 20px;
   padding-left: 15px;
@@ -49,18 +49,18 @@ body {
   flex-direction: row;
   z-index: 0;
   cursor: pointer;
-} */
+}
 .material-symbols-outlined-person {
   padding: 2rem;
   margin: 1rem;
 }
-/* .header .navbar {
+.header .navbar {
   display: flex;
   align-content: center;
   align-items: center;
   justify-content: space-between;
-} */
-/* .header .top-discount-tag .sale {
+}
+.header .top-discount-tag .sale {
   color: rgb(234, 70, 51);
 }
 .header .navbar .search-right {
@@ -76,14 +76,18 @@ body {
   position: relative;
   width: 18rem;
   margin-right: 2rem;
-} */
-/* .search-text {
+}
+.search-text {
   color: rgb(153, 153, 153);
   padding: 0.8rem;
   border: 1px solid #d9d9d9;
   width: 16rem;
   font-size: 13px;
-} */
+}
+#block{
+  margin-left: 6px;
+  padding-right: 2px;
+}
 
 .log {
   display: flex;
@@ -123,7 +127,7 @@ body {
   margin: 2rem;
   padding: 1rem;
 }
-/* .header .tabs {
+.header .tabs {
   display: flex;
   width: 100%;
   border-top: 1px solid #d9d9d9;
@@ -132,21 +136,21 @@ body {
   justify-content: center;
   padding: 1px;
 }
-.header .tabs ul { */
-  /* float: right;
+.header .tabs ul {
+  float: right;
   text-align: center;
-} */
-/* .header .tabs ul li {
+}
+.header .tabs ul li {
   display: inline-block;
   margin: 10px;
-} */
+}
 
-/* .header .tabs ul li a {
+.header .tabs ul li a {
   text-decoration: none;
   color: #002855;
   font-size: 12px;
   font-weight: 800;
-} */
+}
 .fa-facebook-f:hover {
   color: rgb(8, 102, 255);
   cursor: pointer;
@@ -535,16 +539,3 @@ option {
 /* ******** MEDIA QUERY *********  */
 
 
-@media only screen and (max-width: 768px) {
-
-  .header .jack-jones-img {
-    display: flex;
-    padding-top: 15px;
-    padding-left: 15px;
-    padding-bottom: 10px;
-    flex-direction: row;
-    z-index: 0;
-    cursor: pointer;
-    
-}
-}
