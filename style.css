@@ -96,18 +96,22 @@ top:-0.4rem
   
   .log .fa-user:hover{
     color: rgb(162,210,255);
+    cursor: pointer;
   }
   
   .log .fa-heart:hover{
     color: rgb(247,37,133);
+    cursor: pointer;
   }
   
   .log .fa-heart:hover{
     color: rgb(247,37,133);
+    cursor: pointer;
   }
   
   .log .fa-bag-shopping:hover{
     color: rgb(77,25,77);
+    cursor: pointer;
   }
 .material-symbols-outlined{
     color: rgb(188,188,188);
