@@ -13,9 +13,9 @@ hosted link: https://ansh8955.github.io/jack-joness/
     we used font awesome icons and google font icons for that we need to paste some external or cdn links to head tag.
 3. Proper screenshot of different sections you made
    I made a home page and New In page (not able to paste the screen shots here)
-
+   
+  ![image](https://github.com/ansh8955/jack-joness/assets/84927134/9bc00c25-84e9-402d-82a3-edca6dc01bad)
    ![image](https://github.com/ansh8955/jack-joness/assets/84927134/b0865da2-4e2d-4a8f-9790-ec3e7a2304ec)
-   ![image](https://github.com/ansh8955/jack-joness/assets/84927134/9bc00c25-84e9-402d-82a3-edca6dc01bad)
    ![image](https://github.com/ansh8955/jack-joness/assets/84927134/2e4f0cff-1de7-4189-82b1-b65f71316aea)
    ![image](https://github.com/ansh8955/jack-joness/assets/84927134/2637f76b-e9b8-4aff-a097-1516916b9557)
    ![image](https://github.com/ansh8955/jack-joness/assets/84927134/ee2a44ce-b2ae-49a5-b09c-20a455a146ba)
