@@ -405,6 +405,7 @@ flex-direction: row;
     line-height: 40px;
     color: #fff;
     margin:0 4rem;
+    cursor: pointer;
 }
 .fa-brands fa-facebook-f fa-fade{
     cursor: pointer;
@@ -428,6 +429,7 @@ flex-direction: row;
     font-size: 11px;
     margin: 5%;
     color: #fff;
+cursor: pointer;
 
 }
 .chatbot{
